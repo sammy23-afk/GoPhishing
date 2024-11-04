@@ -2,7 +2,7 @@
 #include <string.h>
 #include <ctype.h>
 
-#define NUM_QUESTIONS 20
+#define NUM_QUESTIONS 15
 #define NUM_OPTIONS 4
 
 typedef struct {
